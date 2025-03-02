@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Generador de Flashcards</title>
+</head>
+<body>
+    <h1>Crea tu flashcard para Anki</h1>
+    <form method="post" enctype="multipart/form-data">
+        <label>Palabra en español:</label><br>
+        <input type="text" name="palabra" required><br><br>
+        <label>Subir imagen (opcional):</label><br>
+        <input type="file" name="imagen" accept="image/*"><br><br>
+        <input type="submit" value="Generar Flashcard">
+    </form>
+</body>
+</html>
