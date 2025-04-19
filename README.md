@@ -117,11 +117,3 @@ https://www.youtube.com/watch?v=Gnpe9flQia4&feature=youtu.be
 **genanki:** Para crear archivos .apkg.
 **deep-translator:** Para traducciones confiables.
 
-## Contribuir
-Si quieres mejorar este proyecto, siéntete libre de abrir un pull request o reportar problemas en el repositorio.
-
-## Licencia
-Este proyecto está bajo la licencia MIT.
-
-## Autor
-Creado por Alba Alvarez
