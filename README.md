@@ -48,12 +48,18 @@ https://www.youtube.com/watch?v=Gnpe9flQia4&feature=youtu.be
 ## Estructura del proyecto 
 
 <nombre_del_proyecto>/
+
 ├── app.py       # Código principal de la app
+
 ├── templates/
+
 │ └── index.html # Interfaz web
+
 ├── static/
 │ ├── audio/     # Carpeta para archivos de audio generados
+
 │ └── images/    # Carpeta para imágenes subidas
+
 └── README.md    # Este archivo
 
 ##Contenido de index.html
